@@ -1,4 +1,4 @@
-# Daily-s-Tasks-Object-Bootcamp-P5
+# Daily-s-Tasks-Object-JavaScript
 Hi :)
-I am a Argentina developer, and this is my exercises in my path with Plataforma 5 Bootcamp!
+I am a Argentina developer, and this is my exercises in my path with JavaScript Bootcamp!
 In this opportunity i made a object´s exercises.
